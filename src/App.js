@@ -4,6 +4,8 @@ import Navbar from './components/Navbar'
 import Home from './pages/Home';
 import AboutUs from './pages/PageAboutUs';
 import Event from './pages/PageEvent';
+import Blog from './pages/PageBlog';
+import Contact from './pages/PageContact';
 
 
 function App() {
@@ -14,6 +16,8 @@ function App() {
         <Route path='/' element={<Home/>}/>
         <Route path='/AboutUs' element={<AboutUs/>}/>
         <Route path='/Event' element={<Event/>}/>
+        <Route path='/Blog' element={<Blog/>}/>
+        <Route path='/Contact' element={<Contact/>}/>
       </Routes>
       
     </div>

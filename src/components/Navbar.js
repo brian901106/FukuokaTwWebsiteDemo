@@ -30,6 +30,16 @@ const Navbar = () => {
                             活動回顧
                         </Link>
                     </div>
+                    <div className='Route'>
+                        <Link to="/Blog">
+                            留學生活
+                        </Link>
+                    </div>
+                    <div className='Route'>
+                        <Link to="/Contact">
+                            聯繫我們
+                        </Link>
+                    </div>
                 </div>
 
             </div>
