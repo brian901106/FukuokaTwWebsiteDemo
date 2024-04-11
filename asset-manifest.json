@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/%7Bfukuokatwwebsitedemo%7D/static/css/main.297755c4.css",
-    "main.js": "/%7Bfukuokatwwebsitedemo%7D/static/js/main.6f935803.js",
-    "static/media/logo.webp": "/%7Bfukuokatwwebsitedemo%7D/static/media/logo.eb0b403139b5fc513089.webp",
-    "index.html": "/%7Bfukuokatwwebsitedemo%7D/index.html",
-    "main.297755c4.css.map": "/%7Bfukuokatwwebsitedemo%7D/static/css/main.297755c4.css.map",
-    "main.6f935803.js.map": "/%7Bfukuokatwwebsitedemo%7D/static/js/main.6f935803.js.map"
+    "main.css": "/fukuokatwwebsitedemo/static/css/main.297755c4.css",
+    "main.js": "/fukuokatwwebsitedemo/static/js/main.2859bb66.js",
+    "static/media/logo.webp": "/fukuokatwwebsitedemo/static/media/logo.eb0b403139b5fc513089.webp",
+    "index.html": "/fukuokatwwebsitedemo/index.html",
+    "main.297755c4.css.map": "/fukuokatwwebsitedemo/static/css/main.297755c4.css.map",
+    "main.2859bb66.js.map": "/fukuokatwwebsitedemo/static/js/main.2859bb66.js.map"
   },
   "entrypoints": [
     "static/css/main.297755c4.css",
-    "static/js/main.6f935803.js"
+    "static/js/main.2859bb66.js"
   ]
 }
