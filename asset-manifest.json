@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fukuokatwwebsitedemo/static/css/main.297755c4.css",
-    "main.js": "/fukuokatwwebsitedemo/static/js/main.2859bb66.js",
+    "main.js": "/fukuokatwwebsitedemo/static/js/main.321f7a81.js",
     "static/media/logo.webp": "/fukuokatwwebsitedemo/static/media/logo.eb0b403139b5fc513089.webp",
     "index.html": "/fukuokatwwebsitedemo/index.html",
     "main.297755c4.css.map": "/fukuokatwwebsitedemo/static/css/main.297755c4.css.map",
-    "main.2859bb66.js.map": "/fukuokatwwebsitedemo/static/js/main.2859bb66.js.map"
+    "main.321f7a81.js.map": "/fukuokatwwebsitedemo/static/js/main.321f7a81.js.map"
   },
   "entrypoints": [
     "static/css/main.297755c4.css",
-    "static/js/main.2859bb66.js"
+    "static/js/main.321f7a81.js"
   ]
 }
