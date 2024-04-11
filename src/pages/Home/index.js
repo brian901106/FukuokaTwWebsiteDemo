@@ -1,11 +1,10 @@
-import Content from './components/Content'
+import PhotoPlayer from './components/PhotoPlayer'
 import './index.css'
 
 
 const Home = () => {
     return <div className='MainContents'>
-        Home
-        <Content />
+        <PhotoPlayer />
         
     </div>
 }
