@@ -25,7 +25,7 @@
 }
 
 .Route{
-  font-size: calc(20px);
+  font-size: calc(10px + 1vmin);
   margin-left: 10px;
 }
 
@@ -62,6 +62,11 @@
 .MainContents{
   background-color: #fff8e9;
   min-height: 100vh;
+}
+
+a{
+  color: rgb(61, 61, 61);
+  text-decoration: none;
 }
 
 
