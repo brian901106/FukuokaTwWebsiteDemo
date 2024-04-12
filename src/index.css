@@ -83,8 +83,30 @@
   font-size: 30px;;
 }
 
+.Copyright-info-container{
+  display: flex; /* 設置為彈性容器 */
+  justify-content: space-between;
+  max-width: 98vw;
+  margin-left: 1vw;
+  margin-bottom: 1vh;
+  font-size: calc(5px + 1vmin);
+  align-items: flex-end;
+}
 
+.info {
+  display: flex;
+  align-items: center;
+  margin-right: 1vw;
+  gap: 1vw;
+}
 
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1vw;
+  cursor: pointer;
+}
 
 a{
   color: rgb(61, 61, 61);

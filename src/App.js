@@ -1,6 +1,7 @@
 import './App.css';
 import { Routes, Route } from "react-router-dom";
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 import Home from './pages/Home';
 import AboutUs from './pages/PageAboutUs';
 import Event from './pages/PageEvent';
@@ -19,7 +20,7 @@ function App() {
         <Route path='/Blog' element={<Blog/>}/>
         <Route path='/Contact' element={<Contact/>}/>
       </Routes>
-      
+      <Footer/> 
     </div>
   );
 }
