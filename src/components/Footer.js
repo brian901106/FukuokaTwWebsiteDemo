@@ -1,10 +1,12 @@
 import { CiInstagram, CiFacebook } from "react-icons/ci";
 import { IconContext } from "react-icons";
 
-const instagramClick = () => {
+const instagramClick = (event) => {
+    event.stopPropagation();
     window.open('https://www.instagram.com/tsofjp_official/', '_blank');
 };
-const facebookClick = () => {
+const facebookClick = (event) => {
+    event.stopPropagation();
     window.open('https://www.facebook.com/groups/tsofjp/', '_blank');
 };
 
