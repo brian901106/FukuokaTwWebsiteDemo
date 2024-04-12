@@ -5,7 +5,7 @@ const Navbar = () => {
     return <div>
         <div className='Navbar'>
             <div className='Logo-container'>
-                <Link to="/">
+                <Link to="/Home">
                     <img src={logo} alt='logo' className='Logo'/> 
                     <div className='Logo-discription'>
                     TSOFJP
