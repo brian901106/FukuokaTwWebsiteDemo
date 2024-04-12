@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fukuokatwwebsitedemo/static/css/main.032abff2.css",
-    "main.js": "/fukuokatwwebsitedemo/static/js/main.133ab1c8.js",
+    "main.js": "/fukuokatwwebsitedemo/static/js/main.a17e2151.js",
     "static/media/2.webp": "/fukuokatwwebsitedemo/static/media/2.a230f14c2540ec8938b7.webp",
     "static/media/3.webp": "/fukuokatwwebsitedemo/static/media/3.363f4b0785d13762f34c.webp",
     "static/media/1.webp": "/fukuokatwwebsitedemo/static/media/1.0d4ff6ee4c8f3414a1c9.webp",
@@ -12,10 +12,10 @@
     "static/media/slick.woff": "/fukuokatwwebsitedemo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fukuokatwwebsitedemo/index.html",
     "main.032abff2.css.map": "/fukuokatwwebsitedemo/static/css/main.032abff2.css.map",
-    "main.133ab1c8.js.map": "/fukuokatwwebsitedemo/static/js/main.133ab1c8.js.map"
+    "main.a17e2151.js.map": "/fukuokatwwebsitedemo/static/js/main.a17e2151.js.map"
   },
   "entrypoints": [
     "static/css/main.032abff2.css",
-    "static/js/main.133ab1c8.js"
+    "static/js/main.a17e2151.js"
   ]
 }
