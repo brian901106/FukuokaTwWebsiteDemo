@@ -1,18 +1,18 @@
-.Logo {
+.Navbar-Logo {
   height: 70px;
   pointer-events: none;
   float: left;
 
 }
 
-.Logo-discription {
+.Navbar-Logo-discription {
   font-size: calc(20px);
   pointer-events: none;
   margin-top: 0px;
   margin-left: 7px;
 }
 
-.Logo-container {
+.Navbar-Logo-container {
   display: flex;
   flex-direction: column;
   margin-left: 10px;
@@ -64,6 +64,7 @@
   max-width: 100vw;
 }
 
+/* Home.js */
 .slider-container{
   margin-top: 30px;
 }
@@ -75,6 +76,7 @@
   pointer-events: none;
 }
 
+
 .news-title-container {
   display: flex; /* 設置為彈性容器 */
   flex-direction: column; /* 子元素垂直排列 */
@@ -83,6 +85,7 @@
   font-size: 30px;;
 }
 
+/* Footer.js */
 .Copyright-info-container{
   display: flex; /* 設置為彈性容器 */
   justify-content: space-between;
@@ -108,6 +111,45 @@
   cursor: pointer;
 }
 
+/* About.js */
+.About-Container{
+  display: flex; 
+  justify-content: center;
+}
+
+.About-Logo-discription-Container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.About-Logo{
+  height: 217px;
+  width: 257px;
+}
+
+.About-Logo-discription{
+  font-size: 50px;
+}
+
+.About-title-info-container{
+  max-width: 50vw;
+}
+
+.About-title{
+  display: flex; /* 設置為彈性容器 */
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+.About-info{
+  display: flex; /* 設置為彈性容器 */
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+
+/* General */
 a{
   color: rgb(61, 61, 61) !important;
   text-decoration: none !important;
@@ -115,6 +157,7 @@ a{
 
 body {
   background-color: #fff8e9 !important;
+  max-width: 100% !important; 
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

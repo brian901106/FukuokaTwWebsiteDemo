@@ -1,11 +1,15 @@
-import Content from './components/Content'
+import About from './components/About'
+import Organization from './components/Organization'
+import Member from './components/Member'
+
 import './index.css'
 
 
 const AboutUs = () => {
     return <div className='MainContents'>
-        AboutUs
-        <Content />
+        <About />
+        <Organization />
+        <Member />
 
     </div>
 }
