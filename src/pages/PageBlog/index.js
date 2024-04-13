@@ -1,11 +1,11 @@
-import Content from './components/Content'
+import BlogPosts from './components/BlogPosts'
 import './index.css'
 
 
 const Blog = () => {
     return <div className='MainContents'>
         Blog
-        <Content />
+        <BlogPosts />
 
     </div>
 }

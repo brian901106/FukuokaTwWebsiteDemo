@@ -149,6 +149,22 @@
   font-size: 20px;
 }
 
+/* Event.js */
+.Event-discription{
+  font-size: 20px;
+  max-width: 70vw;
+}
+
+.Posts{
+  max-width: 70vw;
+}
+
+.Event-Part-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 
 /* General */
 a{
@@ -158,7 +174,7 @@ a{
 
 body {
   background-color: #fff8e9 !important;
-  max-width: 100% !important; 
+  max-width: 100vw !important; 
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
