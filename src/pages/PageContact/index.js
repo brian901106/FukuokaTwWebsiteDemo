@@ -4,7 +4,6 @@ import './index.css'
 
 const Contact = () => {
     return <div className='MainContents'>
-        Contact
         <Content />
 
     </div>

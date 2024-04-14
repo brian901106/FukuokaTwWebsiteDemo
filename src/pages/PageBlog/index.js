@@ -4,7 +4,6 @@ import './index.css'
 
 const Blog = () => {
     return <div className='MainContents'>
-        Blog
         <BlogPosts />
 
     </div>

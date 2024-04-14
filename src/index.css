@@ -166,6 +166,14 @@
   justify-content: center;
 }
 
+/* Blog */
+.Blog{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
 /* General */
 a{
   color: rgb(61, 61, 61) !important;
