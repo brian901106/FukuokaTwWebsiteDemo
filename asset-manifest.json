@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/fukuokatwwebsitedemo/static/css/main.48790144.css",
-    "main.js": "/fukuokatwwebsitedemo/static/js/main.a0bec4aa.js",
+    "main.css": "/fukuokatwwebsitedemo/static/css/main.4772ab31.css",
+    "main.js": "/fukuokatwwebsitedemo/static/js/main.8e01986b.js",
     "static/media/Inter-italic.var.woff2?v=3.19": "/fukuokatwwebsitedemo/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/fukuokatwwebsitedemo/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
     "static/media/2.webp": "/fukuokatwwebsitedemo/static/media/2.a230f14c2540ec8938b7.webp",
     "static/media/3.webp": "/fukuokatwwebsitedemo/static/media/3.363f4b0785d13762f34c.webp",
     "static/media/1.webp": "/fukuokatwwebsitedemo/static/media/1.0d4ff6ee4c8f3414a1c9.webp",
     "static/media/幹部照片2.webp": "/fukuokatwwebsitedemo/static/media/幹部照片2.925868c198b20f3f197f.webp",
+    "static/media/post_sample.webp": "/fukuokatwwebsitedemo/static/media/post_sample.33d30072d1623b6b824f.webp",
     "static/media/幹部照片1.webp": "/fukuokatwwebsitedemo/static/media/幹部照片1.5dbbdf54e9c6cca15765.webp",
     "static/media/幹部照片7.webp": "/fukuokatwwebsitedemo/static/media/幹部照片7.2d20849b2ec8b6df5063.webp",
     "static/media/幹部照片6.webp": "/fukuokatwwebsitedemo/static/media/幹部照片6.0243b098a6d8fa62ff41.webp",
@@ -20,11 +21,11 @@
     "static/media/slick.ttf": "/fukuokatwwebsitedemo/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fukuokatwwebsitedemo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fukuokatwwebsitedemo/index.html",
-    "main.48790144.css.map": "/fukuokatwwebsitedemo/static/css/main.48790144.css.map",
-    "main.a0bec4aa.js.map": "/fukuokatwwebsitedemo/static/js/main.a0bec4aa.js.map"
+    "main.4772ab31.css.map": "/fukuokatwwebsitedemo/static/css/main.4772ab31.css.map",
+    "main.8e01986b.js.map": "/fukuokatwwebsitedemo/static/js/main.8e01986b.js.map"
   },
   "entrypoints": [
-    "static/css/main.48790144.css",
-    "static/js/main.a0bec4aa.js"
+    "static/css/main.4772ab31.css",
+    "static/js/main.8e01986b.js"
   ]
 }
